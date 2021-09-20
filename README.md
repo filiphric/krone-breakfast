@@ -1,26 +1,24 @@
-# Ease your journey into test automation with Cypress Studio
+# Cypress Studio: Skratka na ceste od manuálneho k automatizovanému testovaniu
 
-Demo repository for my talk on GeoSTQB Tester’s day 2021.
+Demo repositár k mojej prezentácii na KRONE breakfast
 
-In this repo you will find the final code from my talk as well as the application I am testing.
+V tejto aplikácii nájdeš finálny kód ako aj aplikáciu, ktorú testujem
 
-Before you start, open your terminal and type:
+Naklonuj si tento repozitár pomocou príkazu `git clone https://github.com/filiphric/krone-breakfast.git` a následne nainštaluj aplikáciu a všetky závislosti pomocou
 
 ```
 npm install
 ```
-This will install Cypress as well as the Trello application.
-
-To run the application, type:
+Pre spustenie aplikácie zadaj príkaz
 ```
 npm start
 ```
 
-To open Cypress, open a new terminal and type:
+Otvor si nové terminálové okno a otvor si Cypress príkazom:
 ```
 npx cypress open
 ```
 
 ## Enjoy!
 
-For more cool Cypress content visit [filiphric.com](filiphric.com)
+Sleduj [filiphric.com](filiphric.com)
