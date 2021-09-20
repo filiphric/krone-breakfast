@@ -1,0 +1,12 @@
+{
+  "name": "geostqb-2021",
+  "version": "1.0.0",
+  "description": "Repo for a talk on Tester day GeoSTQB",
+  "scripts": {
+    "start": "cd trelloapp && npm start",
+    "postinstall": "cd trelloapp && npm install"
+  },
+  "keywords": [],
+  "author": "Filip Hric (https://filiphric.com/)",
+  "license": "ISC"
+}
